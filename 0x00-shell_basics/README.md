@@ -1,0 +1,1 @@
+- [x] This is my first bash script project.
