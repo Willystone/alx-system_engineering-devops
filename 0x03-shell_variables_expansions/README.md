@@ -1,0 +1,1 @@
+- [x] This is a shell project focusing on variables and expansions.
